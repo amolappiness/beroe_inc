@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/beroe/static/css/main.e6c13ad2.css",
+    "main.js": "/beroe/static/js/main.425fac22.js",
+    "pdfmake.js": "/beroe/static/js/pdfmake.31b39f64.chunk.js",
+    "canvg.js": "/beroe/static/js/canvg.4bb2b5dd.chunk.js",
+    "xlsx.js": "/beroe/static/js/xlsx.de60d820.chunk.js",
+    "static/js/453.23c2742a.chunk.js": "/beroe/static/js/453.23c2742a.chunk.js",
+    "index.html": "/beroe/index.html",
+    "main.e6c13ad2.css.map": "/beroe/static/css/main.e6c13ad2.css.map",
+    "main.425fac22.js.map": "/beroe/static/js/main.425fac22.js.map",
+    "pdfmake.31b39f64.chunk.js.map": "/beroe/static/js/pdfmake.31b39f64.chunk.js.map",
+    "canvg.4bb2b5dd.chunk.js.map": "/beroe/static/js/canvg.4bb2b5dd.chunk.js.map",
+    "xlsx.de60d820.chunk.js.map": "/beroe/static/js/xlsx.de60d820.chunk.js.map",
+    "453.23c2742a.chunk.js.map": "/beroe/static/js/453.23c2742a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.425fac22.js"
+  ]
+}
